@@ -213,10 +213,10 @@ You'll see some C, C++, and Python learning included below, because I'm learning
     - [ ] https://www.youtube.com/watch?v=42KTvGYQYnA
     - [ ] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
-- [ ] **How floating point numbers are stored:**
-    - [ ] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
-    - [ ] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
-    - [ ] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
+- [x] **How floating point numbers are stored:**
+    - [x] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
+    - [x] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
+    - [x] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
 
 - [ ] **Computer Arch Intro:**
     (first video only - interesting but not required) https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1
@@ -299,7 +299,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - nothing to implement
 - [ ] Harvard CS50 - Asymptotic Notation: https://www.youtube.com/watch?v=iOq5kSKqeR4
 - [ ] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
-- [ ] Big O Notation (and Omega and Theta) - best mathematical explanation:
+- [x] Big O Notation (and Omega and Theta) - best mathematical explanation:
     - https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
 - [ ] Skiena:
     - video: https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
@@ -359,15 +359,15 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] Description:
+    - [x] Description:
         - [ ] https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists
-        - [ ] CS 61B - Linked lists: https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5
+        - [x] CS 61B - Linked lists: https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5
     - [ ] C Code: https://www.youtube.com/watch?v=QN6FPiD0Gzo
             - not the whole video, just portions about Node struct and memory allocation.
     - [ ] Linked List vs Arrays:
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays
-    - [ ] why you should avoid linked lists:
+    - [x] why you should avoid linked lists:
         - https://www.youtube.com/watch?v=YQs6IC-vgmo
     - [ ] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
@@ -388,18 +388,18 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [ ] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - Description: https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists
         - No need to implement
 
 - ### Stack
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks
+    - [x] https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks
     - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html
     - [ ] Will not implement. Implementing with array is trivial.
 
 - ### Queue
     - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/EShpq/queue
+    - [x] https://www.coursera.org/learn/data-structures/lecture/EShpq/queue
     - [ ] Circular buffer/FIFO: https://en.wikipedia.org/wiki/Circular_buffer
     - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html
     - [ ] Implement using linked-list, with tail pointer:
@@ -494,7 +494,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 - ### Trees - Notes & Background
     - [ ] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
-    - [ ] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
+    - [x] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
     - basic tree construction
     - traversal
     - manipulation algorithms
