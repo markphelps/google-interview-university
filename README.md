@@ -1,8 +1,6 @@
 # Google Interview University
 
-Translations:
-
-- [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
+Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
 
 ## What is it?
 
@@ -171,16 +169,16 @@ Print out a "[future Googler](https://github.com/jwasham/google-interview-univer
 
 I haven't applied yet.
 
-I still have a few days in the learning phase (finishing up this crazy list), and starting next week all
-I'll be doing is programming questions all day long. That will continue for a few weeks, and then I'll
+Right now I'm doing programming problems all day long. That will continue for a few weeks, and then I'll
 apply through a referral I've been holding onto since February (yes, February).
 
     Thanks for the referral, JP.
 
 ## Follow Along with Me
 
-I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://googleyasheck.com/)
+I'm on the journey, too. Follow along:
 
+- **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
 - Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
 - Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
 - Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
@@ -297,7 +295,14 @@ Make your own for free:
 - [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
 - [My flash cards database](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db): Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. It's way too much for what's required by Google.
 
-**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in your brain.
+**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the
+same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
+your brain.
+
+An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember.
+It's user friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
+
+My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
 
 ### 3. Review, review, review
 
@@ -923,7 +928,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] [NP Completeness III (Video)](https://www.youtube.com/watch?v=fCX1BGT3wjE&index=17&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
         - [ ] [NP Completeness IV (video)](https://www.youtube.com/watch?v=NKLDp3Rch3M&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=18)
     - [ ] Skiena:
-        - [ ] [CSE373 2012 - Lecture 23 - Introduction to NP-CompletenessNP Completeness IV (video)](https://youtu.be/KiK5TVgXbFg?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1508)
+        - [ ] [CSE373 2012 - Lecture 23 - Introduction to NP-Completeness (video)](https://youtu.be/KiK5TVgXbFg?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1508)
         - [ ] [CSE373 2012 - Lecture 24 - NP-Completeness Proofs (video)](https://www.youtube.com/watch?v=27Al52X3hd4&index=24&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
         - [ ] [CSE373 2012 - Lecture 25 - NP-Completeness Challenge (video)](https://www.youtube.com/watch?v=xCPH4gwIIXM&index=25&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [ ] [Complexity: P, NP, NP-completeness, Reductions (video)](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
@@ -944,7 +949,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - ### Processes and Threads
     - [ ] Computer Science 162 - Operating Systems (25 videos):
-        - for precesses and threads see videos 1-11
+        - for processes and threads see videos 1-11
         - [Operating Systems and System Programming (video)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
     - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
@@ -1004,7 +1009,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
     - [ ] [How long does it take to make a context switch?](http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html)
     - [ ] [Transactions Across Datacenters (video)](https://www.youtube.com/watch?v=srOgpXECblk)
-    - [ ] [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
+    - [ ] [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
     - [ ] Paxos Consensus algorithm:
         - [short video](https://www.youtube.com/watch?v=s8JqcZtvnsM)
         - [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
@@ -1307,7 +1312,7 @@ Maybe:
 ## Your Resume
 
 - [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
-- Great stuff at the back of Cracking The Coding Interview
+- See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
 
 
 ## Be thinking of for when the interview comes
@@ -1371,7 +1376,7 @@ You're never really done.
 - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
     - [answers to questions](https://github.com/lekkas/c-algorithms)
 - [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
-    - and oldie but a goodie
+    - an oldie but a goodie
 - [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
     - a modern option
 - [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
@@ -1710,6 +1715,8 @@ Sit back and enjoy. "netflix and skill" :P
 
 - [ ] [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
 
+- [ ] [Discrete Mathematics Part 1 by Sarada Herke (5 videos)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
+
 - [ ] CSE373 - Analysis of Algorithms (25 videos)
     - [Skiena lectures from Algorithm Design Manual](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
 
@@ -1753,6 +1760,8 @@ Sit back and enjoy. "netflix and skill" :P
     - [Course Website along with Slides and Problem Sets](http://www.crypto-textbook.com/)
 
 - [ ] [Mining Massive Datasets - Stanford University (94 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
+
+- [ ] [Graph Theory by Sarada Herke (67 videos)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
 ## Computer Science Courses
 
